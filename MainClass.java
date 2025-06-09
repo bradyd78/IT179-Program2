@@ -1,7 +1,6 @@
 /*
  * Created on: Feb 7, 2023
  *
- * ULID: badavi4
  * Class: IT 168 
  */
 package ilstu.edu;
@@ -10,12 +9,7 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/**
- * Program 2 IT 179 Hostpital Program
- *
- * @author <Brady Davidson>
- *
- */
+
 public class MainClass
 {
 
